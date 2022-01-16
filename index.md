@@ -1,4 +1,9 @@
-**UNDER CONSTRUCTION**
+---
+layout:default
+---
+
+# UNDER CONSTRUCTION
+The site is public but unfinished.
 
 # About
 
@@ -9,9 +14,9 @@ to other forums.
 
 # Goals for the Archive
 - Organize my work
-- Overview themes I find important
+- Cover themes I find important
 - Provide a useful resource
 
 # Contact
-If there are problems with the site or any questions, I can be reached at 
+If there are questions or problems with the site, I can be reached at 
 axin@college.harvard.edu.
