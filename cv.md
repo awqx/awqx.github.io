@@ -5,6 +5,7 @@ rank: 1
 ---
 
 # Curriculum Vitae
+
 ## Education
 
 ## Classes
@@ -12,6 +13,15 @@ rank: 1
 ## Research
 
 ## Work
+
+## Extracurriculars
+
+**Arete Fellowship Chair of Harvard College Effective Altruism.** *May 2021-Present.*
+The Arete Fellowship is an introduction to effective altruism and is composed of weekly discussion sections, assigned readings, workshops, and a capstone project. As Fellowship Chair, I organize the Fellowship, modify the syllabus, and reach out to Fellows in order to continuously improve the experience. More information on the Arete Fellowship can be found [here](https://www.harvardea.org/arete).
+
+**President of Harvard Breakers.** *May 2021-Present.*
+
+**Design Chair of Adams House Committee.** *Jan 2021-Present.*
 
 ## Volunteering
 
