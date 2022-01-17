@@ -4,15 +4,15 @@ title: Curriculum Vitae
 rank: 1
 ---
 
-# Curriculum Vitae
-## Education
+## Curriculum Vitae
+### Education
 **Harvard University** (Cambridge, MA. Class of 2023).
 A.B. Candidate, Statistics. Secondary: Linguistics. A complete list of classes is [here](classes.md).
 
 **Hathaway Brown High School** (Shaker Heights, OH. Class of 2019).
 Alumnae Scholar (highest GPA), Strnad Fellow, Virginia Osborne Charman Award in English, Saltzman Family Excellence in Science Research Award
 
-## Research
+### Research
 **Research Assistant at the Center for Communicable Disease Dynamics** (Aug 2021-).
 I conduct research on the genome of M. tuberculosis with Dr. Megan Murray and under the mentorship of Dr. Chuan-Chin Huan. I am currently working on a genome-wide analysis study (GWAS) to detect SNPs associated with worse outcome in a sample of TB patients from Peru.
 
@@ -24,20 +24,20 @@ First author. Using QSARs for predictions in drug delivery. Currently available 
 **Research Assistant at Zhou Lab, Case Western Reserve University** (Jun 2015-Aug 2016).
 Co-author. Notch2 Blockade Enhances Hematopoietic Stem Cell Mobilization and Homing; _Haematologica_ October 2017 102: 1785-1795; DOI: 10.3324/haematol.2017.168674
 
-### Publications
+#### Publications
 Citations can be found on [ORCID](https://orcid.org/0000-0002-7954-8049).
 
 1. Gene M. Dubowchik, Charles M. Conway, Alison W. Xin. Blocking the CGRP Pathway for Acute and Preventive Treatment of Migraine: The Evolution of Success. *J. Med. Chem.* 2020; 63(13); 6600-6623; [https://doi.org/10.1021/acs.jmedchem.9b01810](https://doi.org/10.1021/acs.jmedchem.9b01810)
 2. Weihuan Wang, Shuiliang Yu, Jay Myers, Yiwei Wang, William W. Xin, Marwah Albakri, Alison W. Xin, Ming Li, Alex Y. Huang, Wei Xin, Christian W. Siebel, Hillard M. Lazarus, Lan Zhou. Notch2 blockade enhances hematopoietic stem cell mobilization and homing. Haematologica 2017;102(10):1785-1795; [https://doi.org/10.3324/haematol.2017.168674.](https://doi.org/10.3324/haematol.2017.168674)
 
-### Presentations 
+#### Presentations 
 **Cleveland Big Data Meetup** (Mar 2018).
 The Cleveland Hadoop group invited me to speak about my research in predicting polymer-drug interactions using statistical models.
 
 **Cleveland Progressive Insurance** (Jun 2018).
 This presentation for Progressive employees focused on my experience as a high-school researcher.
 
-## Work
+### Work
 **Communications Assistant at the Center for Communicable Disease Dynamics** (Aug 2021-).
 As Communications Assistant at the CCDD, I manage the Center's website and social media presence. This includes designing publication material, regularly posting publication updates, tracking media mentions, and collecting and distributing material for the annual Infectious Disease Epidemiology Spring Seminar Series.
 
@@ -46,7 +46,7 @@ At the CCDD, I both conduct research and serve as Communications Assistant. See:
 **Business Development Intern at Biohaven Pharmaceuticals** (May 2019-).
 I assist with scientific diligence, analysis of possible business opportunities, and literature review.
 
-## Teaching 
+### Teaching 
 **Teaching Fellow for STAT 111 (Introduction to Statistics)** (Jan 2021-Jun 2021. Jan 2022-).
 
 **Teaching Fellow for STAT 110 (Introduction to Probability)** (Jun 2021-Dec 2021).
@@ -61,7 +61,7 @@ Seminars focused on cognitive biases, morality, rationality, and effective altru
 
 **Teaching Fellow for CS50 (Introduction to Computer Science)** (Jun 2020-Dec 2020).
 
-## Extracurriculars
+### Extracurriculars
 **Arete Fellowship Chair of Harvard College Effective Altruism** (May 2021-).
 The Arete Fellowship is an introduction to effective altruism and is composed of weekly discussion sections, assigned readings, workshops, and a capstone project. As Fellowship Chair, I organize the Fellowship, modify the syllabus, and reach out to Fellows in order to continuously improve the experience. More information on the Arete Fellowship can be found [here](https://www.harvardea.org/arete).
 
@@ -78,7 +78,7 @@ Breakeasy 8 is scheduled for March 26th, 2022.
 **Design Chair of Adams House Committee** (Jan 2021-).
 I design merchandise, flyers, and publications for Adams House. 
 
-## Volunteering
+### Volunteering
 **President of the Genius Bar at Hathaway Brown** (25 hours) (2017-2019).
 The HB Genius Bar is a student-run division of the IT department assisting both students and staff. 
 
@@ -91,7 +91,7 @@ Participated in community outreach musical performances
 **Library Volunteer in the Hathaway Brown Geisel Center** (13.5 hours) (2017-2019).
 Assisted with book circulation and library events. 
 
-## Awards and Designations
+### Awards and Designations
 - Intel ISEF (2018, 2019)
 	- Project: AW Xin, E Rivera-Delgado, H von Recum. _Improving Affinity-Based Drug Delivery with Convenient Computational Models._ Poster CHEM029; 2019 May 12-17; Phoenix, AZ.
 		- First Place Award from the American Statistical Association
@@ -123,7 +123,7 @@ Assisted with book circulation and library events.
 	- More details [here](https://coolidgescholars.org/about/currentscholars/)
 - AP Scholar (2017)
 
-### Piano
+#### Piano
 I am classically trained and taught by Ella Karasik in Beachwood, OH. Performed four times at Carnegie Hall at winner's recitals, invited for a fifth. 
 
 - AFAF Silver Medalist for Golden Era of Romantic Music (2015, 2018)
