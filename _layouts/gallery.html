@@ -23,7 +23,7 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View the site repo on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
         {% if site.github.is_user_page %}
@@ -40,17 +40,32 @@
         {% assign sorted = site.html_pages | sort:"rank" %}
         {% for item in sorted %}
           {% if item.path != "index.md" and item.title and item.rank %}
-            <!-- <li> -->
               <a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a><br>
               <!-- <span> [ {{ item.path }} - {{ item.title }} - {{ item.rank }} ] </span> -->
-            <!-- </li> -->
           {% endif %}
         {% endfor %}
       </header>
       <section>
-
-      {{ content }}
-
+	  
+		{{ content }}
+		
+	    {% assign gllry = site.html_pages | sort:"gallery" %}
+        {% for item in gllry %}
+          {% if item.src and item.gallery %}
+			<div style="width: 100%; display: flex;">
+			    <div style="width: 50%; height: 100%">
+				  <img src="{{ item.src }}" width=95%>
+				</div>
+				<div style="flex: 1; min-width: 0;">
+				  <p>
+				  <strong>{{ item.title }}</strong> ({{ item.year }})
+				  <br>
+			      {{ item.desc }}
+				  </p>
+				</div>
+			</div>
+          {% endif %}
+        {% endfor %}
       </section>
       <footer>
         {% if site.github.is_project_page %}
