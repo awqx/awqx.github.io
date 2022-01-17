@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# ALXOVE
+## ALXOVE
 
 ALXOVE, pronounced "alcove", is a small niche to store updates, code documentation, writing, art, etc.
 The spelling is inspired by [arXiv](https://arxiv.org/), though I decided against a χ because of course I did.
@@ -11,13 +11,13 @@ ALXOVE is stylized as all-caps to reference my frustration with ambiguity betwee
 
 ALXOVE is **UNDER CONSTRUCTION** and many sections are still missing. 
 
-## Goals for ALXOVE
+### Goals for ALXOVE
 
 - Organize my work
 - Cover themes I value
 - Provide a useful resource
 
-# About Me
+## About Me
 
 I am a junior at Harvard College studying Statistics with a secondary in 
 Linguistics. I am planning to apply to an MD-PhD program with a research 
@@ -33,7 +33,7 @@ am returning as a teaching fellow for STAT 111: Introduction to Probability
 in Spring 2022, and I have previously been a teaching fellow for CS50 and 
 STAT 110.
 
-# Contact
+## Contact
 
 If there are questions or problems with the site, I can be reached 
 [by email](axin@college.harvard.edu).
