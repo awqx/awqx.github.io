@@ -5,74 +5,199 @@ rank: 1
 ---
 
 # Curriculum Vitae
-
 ## Education
+**Harvard University**. *Cambridge, MA. Class of 2023*. 
 
+A.B. Candidate, Statistics. Secondary: Linguistics. 
 
+**Hathaway Brown High School**. *Shaker Heights, OH. Class of 2019*.
+
+Alumnae Scholar (highest GPA), Strnad Fellow, Virginia Osborne Charman Award in English, Saltzman Family Excellence in Science Research Award
 
 ## Classes
+In addition to official course codes, alternate common names are include in parentheses (e.g., COMPSCI 50 is commonly known as CS50).
 
-For class that I have taught as a student course assistant, see *Work*.
+### Fall 2019
+- **STAT 110**: Introduction to Probability
+- **MATH 25A:** Theoretical Linear Algebra and Real Analysis I
+- **LIFESCI 1A (LS1a)**: An Integrated Introduction to the Life Sciences: Chemistry, Molecular Biology, and Cell Biology
+- **COMPSCI 50 (CS50)**: Introduction to Computer Science
+
+### Spring 2020
+- **STAT 111**: Introduction to Statistics
+- **MATH 25A**: Theoretical Linear Algebra and Real Analysis II
+- **GENED 1046**: Evolving Morality: From Primordial Soup to Superintelligent Machines
+- **PHYSCI 11 (PS11)**: Foundations and Frontiers of Modern Chemistry
+- **EXPOS 20**: Expository Writing. Section: Philosophical Films
+
+### Summer 2020
+- **CHEM S-17**: Principles of Organic Chemistry
+
+### Fall 2020
+- **STAT 210**: Probability I
+- **STAT 139**: Introduction to Linear Models
+- **MCB 60**: Cellular Biology and Molecular Medicine
+- **LING 83**: Language, Structure, and Cognition
+- **GENED 1093**: Who Lives, Who Dies, Who Cares?
+
+### Spring 2021
+- **SOC-STD 68EA**: Engaged Philosophy: The Theory and Practice of Altruism
+- **COMPSCI 181**: Introduction to Machine Learning
+- **CHEM 27**: Organic Chemistry of Life
+- **EXPOS 40**: Public Speaking Practicum
+- **LIFESCI 1B (LS1b)**: An Integrated Introduction to the Life Sciences
+
+### Fall 2021
+- **STAT 185**: Introduction to Unsupervised Learning
+- **PHYSCI 2 (PS2)**: Mechanics, Elasticity, Fluids, and Diffusion
+- **NEURO 80**: Neurobiology of Behavior
+- **LING 105**: Sounds of Language
+
+### Spring 2022
+- **STAT 234**: Sequential Decision Making
+- **STAT 171**: Introduction to Stochastic Processes
+- **LING 106**: Knowledge of Meaning
+- **NEURO 140**: Biological and Artificial Intelligence
+- **PHYSCI 3 (PS3)**: Electromagnetism, Circuits, Waves, Optics, and Imaging
+
+### Teaching 
+
+**HSYLC Student Leader**. (Aug 2020, Aug 2021)
+
+HSYLC-X provides a liberal arts experience for middle- and high-school students in China. As an SL, I taught seminars for the students, which consisted of two lecture cohorts lasting six days. 
+
+Seminars focused on cognitive biases, morality, rationality, and effective altruism. The 2020 seminar was titled *Mentality, Misery, and Morality* and the 2021 seminar was titled *How to Save the World*. 
+
+**Harvard SPLASH Instructor**. (Apr 2021). 
+
+Remote class for high school students. The class, titled *Puzzles in Probability*, focused on introducing probability theory through counter-intuitive examples, such as the Birthday Problem and St. Petersburg's Paradox.
+
+**Teaching Fellow for STAT 111 (Introduction to Statistics).** (Jan 2021-Jun 2021. Jan 2022-)
+
+**Teaching Fellow for STAT 110 (Introduction to Probability).** (Jun 2021-Dec 2021)
+
+**Teaching Fellow for CS50 (Introduction to Computer Science)**. (Jun 2020-Dec 2020)
 
 ## Research
+**Research Assistant at the Center for Communicable Disease Dynamics**. (Aug 2021-)
 
-**Research Assistant at the Center for Communicable Disease Dynamics**. *August 2021-Present.*
-
-I conduct research on the genome of M. tuberculosis with Dr. Megan Murray and under the mentorship of Dr. Chuan-Chin Huan. 
-I am currently working on a genome-wide analysis study (GWAS) to detect SNPs associated with worse outcome in a sample of TB patients from Peru.
+I conduct research on the genome of M. tuberculosis with Dr. Megan Murray and under the mentorship of Dr. Chuan-Chin Huan. I am currently working on a genome-wide analysis study (GWAS) to detect SNPs associated with worse outcome in a sample of TB patients from Peru.
 
 At the CCDD, I both conduct research and serve as Communications Assistant. See: *Work*.
 
+**Research Assistant at von Recum Lab, Case Western Reserve University**. (Jan 2016-May 2019).
+          
+First author. Using QSARs for predictions in drug delivery. Currently available as a preprint; DOI: https://doi.org/10.1101/727172. Work in progress.
+
+**Research Assistant at Zhou Lab, Case Western Reserve University**. (Jun 2015-Aug 2016)
+
+Co-author. Notch2 Blockade Enhances Hematopoietic Stem Cell Mobilization and Homing; _Haematologica_ October 2017 102: 1785-1795; DOI: 10.3324/haematol.2017.168674
+
+### Publications
+Citations can be found on [ORCID](https://orcid.org/0000-0002-7954-8049).
+
+1. Gene M. Dubowchik, Charles M. Conway, Alison W. Xin. Blocking the CGRP Pathway for Acute and Preventive Treatment of Migraine: The Evolution of Success. *J. Med. Chem.* 2020; 63(13); 6600-6623; https://doi.org/10.1021/acs.jmedchem.9b01810
+2. Weihuan Wang, Shuiliang Yu, Jay Myers, Yiwei Wang, William W. Xin, Marwah Albakri, Alison W. Xin, Ming Li, Alex Y. Huang, Wei Xin, Christian W. Siebel, Hillard M. Lazarus, Lan Zhou. Notch2 blockade enhances hematopoietic stem cell mobilization and homing. Haematologica 2017;102(10):1785-1795; https://doi.org/10.3324/haematol.2017.168674.
+
+### Presentations 
+**Cleveland Big Data Meetup**. (Mar 2018)
+
+Cleveland Big Data Meetup invited me to speak about my  research in predicting polymer-drug interactions using statistical models.
+
+**Cleveland Progressive Insurance**. (Jun 2018)
+
+This presentation for Progressive employees focused on my experience as a high-school researcher.
+
 ## Work
+**Communications Assistant at the Center for Communicable Disease Dynamics**. (Aug 2021-)
 
-**Communications Assistant at the Center for Communicable Disease Dynamics**. *August 2021-Present.*
-
-As Communications Assistant at the CCDD, I manage the Center's website and social media presence. 
-This includes designing publication material, regularly posting publication updates, tracking media mentions, 
-and collecting and distributing material for the annual Infectious Disease Epidemiology Spring Seminar Series.
+As Communications Assistant at the CCDD, I manage the Center's website and social media presence. This includes designing publication material, regularly posting publication updates, tracking media mentions, and collecting and distributing material for the annual Infectious Disease Epidemiology Spring Seminar Series.
 
 At the CCDD, I both conduct research and serve as Communications Assistant. See: *Research*.
 
-**Teaching Fellow for STAT111 (Introduction to Statistics).** *January 2021-June 2021. January 2022-Present.*
+**Business Development Intern**. (May 2019-)
 
-**Teaching Fellow for STAT110 (Introduction to Probability).** *June 2022-December 2022*.
-
-**Teaching Fellow for CS50 (Introduction to Computer Science)**. *June 2020-December 2020.*
+I assist with scientific diligence, analysis of possible business opportunities, and literature review.
 
 ## Extracurriculars
 
-**Arete Fellowship Chair of Harvard College Effective Altruism.** *May 2021-Present.*
+**Arete Fellowship Chair of Harvard College Effective Altruism.** (May 2021-)
 
 The Arete Fellowship is an introduction to effective altruism and is composed of weekly discussion sections, assigned readings, workshops, and a capstone project. 
-As Fellowship Chair, I organize the Fellowship, modify the syllabus, and reach out to Fellows in order to continuously improve the experience. 
-More information on the Arete Fellowship can be found [here](https://www.harvardea.org/arete).
+As Fellowship Chair, I organize the Fellowship, modify the syllabus, and reach out to Fellows in order to continuously improve the experience. More information on the Arete Fellowship can be found [here](https://www.harvardea.org/arete).
 
-**President of Harvard Breakers.** *May 2021-Present.*
+**President of Harvard Breakers.** (May 2021-)
 
 Harvard Breakers is the premier streetdance and freestyle club at Harvard. 
-As President, I am responsible for most of the club logistics, including hosting regular open practices on campus. 
-It is important to acknowledge that breaking is based in broader hip hop culture and to not forget the roots of the art. 
-As such, it is important for students who are introduced to breaking through college clubs to work with the broader dance community, 
-and I facilitate this through keeping the club in contact with local dancers who have been in the scene for years.
+As President, I am responsible for most of the club logistics, including hosting regular open practices on campus. It is important to acknowledge that breaking is based in broader hip hop culture and to not forget the roots of the art. As such, it is important for students who are introduced to breaking through college clubs to work with the broader dance community, and I facilitate this through keeping the club in contact with local dancers who have been in the scene for years.
 
 I organize two national breaking competitions - Battle for Boston in the fall, and Breakeasy in the spring.
-Battle for Boston 2021 was co-hosted by [The Flavor Continues](https://www.theflavorcontinues.org).
-The event had 130 attendants and 20 teams. 
-Schools represented included Columbia, Dartmouth, MIT, Northeastern, Penn State, Princeton, Rutgers, Tufts, UConn, UMass Lowell, and UMass Boston. 
+
+Battle for Boston 2021 was co-hosted by [The Flavor Continues](https://www.theflavorcontinues.org). The event had 130 attendants and 20 teams. Schools represented included Columbia, Dartmouth, MIT, Northeastern, Penn State, Princeton, Rutgers, Tufts, UConn, UMass Lowell, and UMass Boston. 
  
 Breakeasy 8 is scheduled for March 26th, 2022.
 
-**Design Chair of Adams House Committee.** *Jan 2021-Present.*
+**Design Chair of Adams House Committee.** (Jan 2021-)
 
 ## Volunteering
 
-## Awards
+**President of the Genius Bar at Hathaway Brown.** (25 hours) (2017-2019)
 
-- Intel ISEF
-	- 2018. 4th Place Grand Prize
-	- 2018.
-	- 2018. 
-	- 2019. 
-	- 2019. 
-	- 2019. 
-- 2018. Coolidge Scholar.
+The HB Genius Bar is a student-run division of the IT department assisting both students and staff. 
+
+**University Hospital’s Summer Youth Volunteer Program** (31 hours) (2017)
+
+Staffed welcome desk, greeting and directing patients and visitors 
+
+**Ella Karasik Piano Studio Community Outreach** (12 hours) (2015-2019)
+
+Participated in community outreach musical performances
+
+**Library Volunteer in the Hathaway Brown Geisel Center**. (13.5 hours) (2017-2019)
+
+Assisted with book circulation and library events. 
+
+## Awards and Designations
+
+- Intel ISEF (2018, 2019)
+	- Project: AW Xin, E Rivera-Delgado, H von Recum. _Improving Affinity-Based Drug Delivery with Convenient Computational Models._ Poster CHEM029; 2019 May 12-17; Phoenix, AZ.
+		- First Place Award from the American Statistical Association
+		- King Abdul-Aziz and his Companions Foundation (Mawhiba) Award in the category of Intelligence-based Solutions in Cyber-security
+		- STEMCloud Award in Engineering Mechanics.
+	- Project: AW Xin, E Rivera-Delgado, H von Recum. _Computational predictions in affinity-based drug delivery_. Poster CHEM019; 2018 May 13-18; Pittsburgh, PA.
+		- Fourth Place Grand Prize Award in Chemistry
+		- Air Force First Place Award in Chemistry
+		- Runner-up Award from American Chemical Society 
+- Hathaway Brown School
+	- Designations
+		- Science Research and Engineering Program Scholar: requires submission of a manuscript to Regeneron STS
+		- Center for Global Citizenship Scholar: requires authoring a 20+ page thesis. This completed in the class Topics in Human Biology HON: *Lost Friends: How New Living Standards Have Affected the Balance of the Human Microbiome*
+		- Center for Technology and Invention Scholar: completion of a technology project, technology-oriented volunteering
+		- Visual Arts Scholar: artwork in gallery show
+		- Osborne Writing Center Scholar: Retrospect magazine editor, Young Writers and Artists Festival Participant
+		- Strnad Fellow: working on _Preterhuman_, a Webtoon
+	- Awards
+		- National Merit Award
+		- Phi Beta Kappa Award
+		- Birginia Osborne Charman Award in English
+		- Saltzman Family Excellence in Science Research Prize
+		- Alumnae Honor
+- NCWIT National Honorable Mention (2019)
+- National Merit Finalist (2019)
+- Presidential Scholar Semi-Finalist (2019)
+- Cleveland Technical Societies Honor Junior and Scholarship (2019)
+- Coolidge Scholar (2018) 
+	- More details [here](https://coolidgescholars.org/about/currentscholars/)
+- AP Scholar (2017)
+
+### Piano
+
+Classically trained pianist taught by Ella Karasik in Beachwood, OH. Performed four times at Carnegie Hall at winner's recitals, invited for a fifth. 
+
+- AFAF Silver Medalist for Golden Era of Romantic Music (2015, 2018)
+- American Protege 2nd Place winner (2016)
+- International Music Festival Unanimous Superior (2013-2019)
+	- 75-point grand cup
+- Cleveland Music Settlement 6th-9th-11th Grade Competition: First place in 9th grade and Best Performance (2016)
+- Runner-up in Robert Vandall Concerto Competition (2016)
+- Silver Medal in Cincinnati Piano Competition (2013) 
