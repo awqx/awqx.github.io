@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curriculum Vitae
+title: Art
 rank: 4
 ---
 # Art
