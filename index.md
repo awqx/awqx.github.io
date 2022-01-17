@@ -6,16 +6,19 @@ layout: default
 
 Public but unfinished.
 
-# alχove
+# ALXOVE
 
-The title is a combination of my name and alcove. It is also a reference to [arXiv](https://arxiv.org/).
+The title is a combination of my name and alcove. The spelling is also a reference to [arXiv](https://arxiv.org/).
+It is stylized as all uppercase in order to avoid sans serif ambiguity with I and l. 
+This has been a recorruing issue because I am an Al interested in AI.
 
-The site's name is pronounced like "alcove" (ˈæl koʊv). I plan for it to be a small niche where I can store updates, code documentation, writing projects, art, etc.
+The site's name is pronounced like "alcove" (ˈæl koʊv). 
+It is a small niche where I can store updates, code documentation, writing projects, art, etc.
 
 ## Goals
 
 - Organize my work
-- Cover themes I find important
+- Cover themes I value
 - Provide a useful resource
 
 # About Me
