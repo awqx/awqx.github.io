@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: gallery
 title: Art
 rank: 4
 ---
