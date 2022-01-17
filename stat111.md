@@ -9,3 +9,10 @@ This page will link to notes for STAT 111: Introduction to Statistics. Notes are
 
 - Office hours: TBD
 - Section: TBD
+
+```
+# Code snippets will be written in R
+# I will use mainly tidyverse
+if (!require(tidyverse)) install.packages("tidyverse")
+library(tidyverse)
+```
