@@ -3,16 +3,16 @@ layout: default
 ---
 
 # UNDER CONSTRUCTION
-The site is public but unfinished.
 
-# Archive
+Public but unfinished.
 
-This site will hold projects that I want to store publicly. Although GitHub 
-Pages is useful for documentation of coding projects, other work may also be 
-hosted here, such as essays from classes or writings that are cross-posted 
-to other forums. 
+# alχove
 
-## Goals for the Archive
+The title is a combination of my name and alcove. It is also a reference to [arXiv](https://arxiv.org/).
+
+The site's name is pronounced like "alcove" (ˈæl koʊv). I plan for it to be a small niche where I can store updates, code documentation, writing projects, art, etc.
+
+## Goals
 
 - Organize my work
 - Cover themes I find important
