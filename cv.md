@@ -6,82 +6,66 @@ rank: 1
 
 # Curriculum Vitae
 ## Education
-**Harvard University**. *Cambridge, MA. Class of 2023*. 
+**Harvard University** (Cambridge, MA. Class of 2023).
+A.B. Candidate, Statistics. Secondary: Linguistics. A complete list of classes is [here](classes.md).
 
-A.B. Candidate, Statistics. Secondary: Linguistics. A complete list of classes is [here](classes.md)
-
-**Hathaway Brown High School**. *Shaker Heights, OH. Class of 2019*.
-
+**Hathaway Brown High School** (Shaker Heights, OH. Class of 2019).
 Alumnae Scholar (highest GPA), Strnad Fellow, Virginia Osborne Charman Award in English, Saltzman Family Excellence in Science Research Award
 
-## Teaching 
-
-**Teaching Fellow for STAT 111 (Introduction to Statistics).** (Jan 2021-Jun 2021. Jan 2022-)
-
-**Teaching Fellow for STAT 110 (Introduction to Probability).** (Jun 2021-Dec 2021)
-
-**Harvard SPLASH Instructor**. (Apr 2021). 
-
-Remote class for high school students. The class, titled *Puzzles in Probability*, focused on introducing probability theory through counter-intuitive examples, such as the Birthday Problem and St. Petersburg's Paradox.
-
-**HSYLC Student Leader**. (Aug 2020, Aug 2021)
-
-HSYLC-X provides a liberal arts experience for middle- and high-school students in China. As an SL, I taught seminars for the students, which consisted of two lecture cohorts lasting six days. 
-
-Seminars focused on cognitive biases, morality, rationality, and effective altruism. The 2020 seminar was titled *Mentality, Misery, and Morality* and the 2021 seminar was titled *How to Save the World*. 
-
-**Teaching Fellow for CS50 (Introduction to Computer Science)**. (Jun 2020-Dec 2020)
-
 ## Research
-**Research Assistant at the Center for Communicable Disease Dynamics**. (Aug 2021-)
-
+**Research Assistant at the Center for Communicable Disease Dynamics** (Aug 2021-).
 I conduct research on the genome of M. tuberculosis with Dr. Megan Murray and under the mentorship of Dr. Chuan-Chin Huan. I am currently working on a genome-wide analysis study (GWAS) to detect SNPs associated with worse outcome in a sample of TB patients from Peru.
 
 At the CCDD, I both conduct research and serve as Communications Assistant. See: *Work*.
 
-**Research Assistant at von Recum Lab, Case Western Reserve University**. (Jan 2016-May 2019).
-          
-First author. Using QSARs for predictions in drug delivery. Currently available as a preprint; DOI: https://doi.org/10.1101/727172. Work in progress.
+**Research Assistant at von Recum Lab, Case Western Reserve University** (Jan 2016-May 2019).
+First author. Using QSARs for predictions in drug delivery. Currently available as a preprint; DOI: https://doi.org/10.1101/727172. Work in progress. Documentation can be found on [QSARR](qsarr.md).
 
-**Research Assistant at Zhou Lab, Case Western Reserve University**. (Jun 2015-Aug 2016)
-
+**Research Assistant at Zhou Lab, Case Western Reserve University** (Jun 2015-Aug 2016).
 Co-author. Notch2 Blockade Enhances Hematopoietic Stem Cell Mobilization and Homing; _Haematologica_ October 2017 102: 1785-1795; DOI: 10.3324/haematol.2017.168674
 
 ### Publications
 Citations can be found on [ORCID](https://orcid.org/0000-0002-7954-8049).
 
-1. Gene M. Dubowchik, Charles M. Conway, Alison W. Xin. Blocking the CGRP Pathway for Acute and Preventive Treatment of Migraine: The Evolution of Success. *J. Med. Chem.* 2020; 63(13); 6600-6623; https://doi.org/10.1021/acs.jmedchem.9b01810
-2. Weihuan Wang, Shuiliang Yu, Jay Myers, Yiwei Wang, William W. Xin, Marwah Albakri, Alison W. Xin, Ming Li, Alex Y. Huang, Wei Xin, Christian W. Siebel, Hillard M. Lazarus, Lan Zhou. Notch2 blockade enhances hematopoietic stem cell mobilization and homing. Haematologica 2017;102(10):1785-1795; https://doi.org/10.3324/haematol.2017.168674.
+1. Gene M. Dubowchik, Charles M. Conway, Alison W. Xin. Blocking the CGRP Pathway for Acute and Preventive Treatment of Migraine: The Evolution of Success. *J. Med. Chem.* 2020; 63(13); 6600-6623; [https://doi.org/10.1021/acs.jmedchem.9b01810](https://doi.org/10.1021/acs.jmedchem.9b01810)
+2. Weihuan Wang, Shuiliang Yu, Jay Myers, Yiwei Wang, William W. Xin, Marwah Albakri, Alison W. Xin, Ming Li, Alex Y. Huang, Wei Xin, Christian W. Siebel, Hillard M. Lazarus, Lan Zhou. Notch2 blockade enhances hematopoietic stem cell mobilization and homing. Haematologica 2017;102(10):1785-1795; [https://doi.org/10.3324/haematol.2017.168674.](https://doi.org/10.3324/haematol.2017.168674)
 
 ### Presentations 
-**Cleveland Big Data Meetup**. (Mar 2018)
+**Cleveland Big Data Meetup** (Mar 2018).
+The Cleveland Hadoop group invited me to speak about my research in predicting polymer-drug interactions using statistical models.
 
-Cleveland Big Data Meetup invited me to speak about my  research in predicting polymer-drug interactions using statistical models.
-
-**Cleveland Progressive Insurance**. (Jun 2018)
-
+**Cleveland Progressive Insurance** (Jun 2018).
 This presentation for Progressive employees focused on my experience as a high-school researcher.
 
 ## Work
-**Communications Assistant at the Center for Communicable Disease Dynamics**. (Aug 2021-)
-
+**Communications Assistant at the Center for Communicable Disease Dynamics** (Aug 2021-).
 As Communications Assistant at the CCDD, I manage the Center's website and social media presence. This includes designing publication material, regularly posting publication updates, tracking media mentions, and collecting and distributing material for the annual Infectious Disease Epidemiology Spring Seminar Series.
 
 At the CCDD, I both conduct research and serve as Communications Assistant. See: *Research*.
 
-**Business Development Intern**. (May 2019-)
-
+**Business Development Intern at Biohaven Pharmaceuticals** (May 2019-).
 I assist with scientific diligence, analysis of possible business opportunities, and literature review.
 
+## Teaching 
+**Teaching Fellow for STAT 111 (Introduction to Statistics)** (Jan 2021-Jun 2021. Jan 2022-).
+
+**Teaching Fellow for STAT 110 (Introduction to Probability)** (Jun 2021-Dec 2021).
+
+**Harvard SPLASH Instructor** (Apr 2021). 
+Remote class for high school students. The class, titled *Puzzles in Probability*, focused on introducing probability theory through counter-intuitive examples, such as the Birthday Problem and St. Petersburg's Paradox.
+
+**HSYLC Student Leader** (Aug 2020, Aug 2021).
+HSYLC-X provides a liberal arts experience for middle- and high-school students in China. As an SL, I taught seminars for the students, which consisted of two lecture cohorts lasting six days. 
+
+Seminars focused on cognitive biases, morality, rationality, and effective altruism. The 2020 seminar was titled *Mentality, Misery, and Morality* and the 2021 seminar was titled *How to Save the World*. 
+
+**Teaching Fellow for CS50 (Introduction to Computer Science)** (Jun 2020-Dec 2020).
+
 ## Extracurriculars
+**Arete Fellowship Chair of Harvard College Effective Altruism** (May 2021-).
+The Arete Fellowship is an introduction to effective altruism and is composed of weekly discussion sections, assigned readings, workshops, and a capstone project. As Fellowship Chair, I organize the Fellowship, modify the syllabus, and reach out to Fellows in order to continuously improve the experience. More information on the Arete Fellowship can be found [here](https://www.harvardea.org/arete).
 
-**Arete Fellowship Chair of Harvard College Effective Altruism.** (May 2021-)
-
-The Arete Fellowship is an introduction to effective altruism and is composed of weekly discussion sections, assigned readings, workshops, and a capstone project. 
-As Fellowship Chair, I organize the Fellowship, modify the syllabus, and reach out to Fellows in order to continuously improve the experience. More information on the Arete Fellowship can be found [here](https://www.harvardea.org/arete).
-
-**President of Harvard Breakers.** (May 2021-)
-
+**President of Harvard Breakers** (May 2021-).
 Harvard Breakers is the premier streetdance and freestyle club at Harvard. 
 As President, I am responsible for most of the club logistics, including hosting regular open practices on campus. It is important to acknowledge that breaking is based in broader hip hop culture and to not forget the roots of the art. As such, it is important for students who are introduced to breaking through college clubs to work with the broader dance community, and I facilitate this through keeping the club in contact with local dancers who have been in the scene for years.
 
@@ -91,28 +75,23 @@ Battle for Boston 2021 was co-hosted by [The Flavor Continues](https://www.thefl
  
 Breakeasy 8 is scheduled for March 26th, 2022.
 
-**Design Chair of Adams House Committee.** (Jan 2021-)
+**Design Chair of Adams House Committee** (Jan 2021-).
+I design merchandise, flyers, and publications for Adams House. 
 
 ## Volunteering
-
-**President of the Genius Bar at Hathaway Brown.** (25 hours) (2017-2019)
-
+**President of the Genius Bar at Hathaway Brown** (25 hours) (2017-2019).
 The HB Genius Bar is a student-run division of the IT department assisting both students and staff. 
 
-**University Hospital’s Summer Youth Volunteer Program** (31 hours) (2017)
-
+**University Hospital’s Summer Youth Volunteer Program** (31 hours) (2017).
 Staffed welcome desk, greeting and directing patients and visitors 
 
-**Ella Karasik Piano Studio Community Outreach** (12 hours) (2015-2019)
-
+**Ella Karasik Piano Studio Community Outreach** (12 hours) (2015-2019).
 Participated in community outreach musical performances
 
-**Library Volunteer in the Hathaway Brown Geisel Center**. (13.5 hours) (2017-2019)
-
+**Library Volunteer in the Hathaway Brown Geisel Center** (13.5 hours) (2017-2019).
 Assisted with book circulation and library events. 
 
 ## Awards and Designations
-
 - Intel ISEF (2018, 2019)
 	- Project: AW Xin, E Rivera-Delgado, H von Recum. _Improving Affinity-Based Drug Delivery with Convenient Computational Models._ Poster CHEM029; 2019 May 12-17; Phoenix, AZ.
 		- First Place Award from the American Statistical Association
@@ -145,8 +124,7 @@ Assisted with book circulation and library events.
 - AP Scholar (2017)
 
 ### Piano
-
-Classically trained pianist taught by Ella Karasik in Beachwood, OH. Performed four times at Carnegie Hall at winner's recitals, invited for a fifth. 
+I am classically trained and taught by Ella Karasik in Beachwood, OH. Performed four times at Carnegie Hall at winner's recitals, invited for a fifth. 
 
 - AFAF Silver Medalist for Golden Era of Romantic Music (2015, 2018)
 - American Protege 2nd Place winner (2016)
