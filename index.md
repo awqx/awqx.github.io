@@ -10,7 +10,7 @@ Public but unfinished.
 
 The title is a combination of my name and alcove. The spelling is also a reference to [arXiv](https://arxiv.org/).
 It is stylized as all uppercase in order to avoid sans serif ambiguity with I and l. 
-This has been a recorruing issue because I am an Al interested in AI.
+This has been a recurring issue because I am an Al interested in AI.
 
 The site's name is pronounced like "alcove" (ˈæl koʊv). 
 It is a small niche where I can store updates, code documentation, writing projects, art, etc.
