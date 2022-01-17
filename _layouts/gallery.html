@@ -49,7 +49,7 @@
 	  
 		{{ content }}
 		
-	    {% assign gllry = site.html_pages | sort:"gallery" %}
+	    {% assign gllry = site.html_pages | sort:"gallery" | reverse %}
         {% for item in gllry %}
           {% if item.src and item.gallery %}
 			<div style="width: 100%; display: flex;">

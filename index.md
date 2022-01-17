@@ -4,14 +4,12 @@ layout: default
 
 # ALXOVE
 
-The title is a combination of my name and alcove. The spelling is also a reference to [arXiv](https://arxiv.org/).
-It is stylized as all uppercase in order to avoid sans serif ambiguity with I and l. 
-This has been a recurring issue because I am an Al interested in AI.
+ALXOVE, pronounced "alcove", is a small niche to store updates, code documentation, writing, art, etc.
+The spelling is inspired by [arXiv](https://arxiv.org/), though I decided against a χ because of course I did.
+ALXOVE is stylized as all-caps to reference my frustration with ambiguity between I and l in certain fonts. 
+(As an Al interested in AI, this is a recurring issue).
 
-The site's name is pronounced like "alcove" (ˈæl koʊv). 
-It is a small niche where I can store updates, code documentation, writing projects, art, etc.
-
-The site is **UNDER CONSTRUCTION**. Many sections are still missing. 
+ALXOVE is **UNDER CONSTRUCTION** and many sections are still missing. 
 
 ## Goals for ALXOVE
 

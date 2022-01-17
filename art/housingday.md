@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adams Housing Day
-gallery: -20
+gallery: 20
 src: img/21-housing_day.png
 year: 2021
 desc: >- 

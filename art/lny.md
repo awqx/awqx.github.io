@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adams Lunar New Year
-gallery: -19
+gallery: 19
 src: img/21-lny_adams.png
 year: 2021
 desc: >- 

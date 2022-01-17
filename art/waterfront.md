@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Waterfront
-gallery: -1
+gallery: 1
 src: img/17-waterfront.jpg
 year: 2017
 desc: >-

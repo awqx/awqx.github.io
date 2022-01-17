@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adams Orientation
-gallery: -40
+gallery: 40
 src: img/21-orientation.png
 year: 2021
 desc: >- 

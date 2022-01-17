@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Battle for Boston
-gallery: -30
+gallery: 30
 src: img/21-b4b.png
 year: 2021
 desc: >- 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Room
-gallery: -10
+gallery: 10
 src: img/19-room.png
 year: 2019
 desc: >- 

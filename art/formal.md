@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Adams Winter Formal
-gallery: -45
+gallery: 45
 src: img/21-winter_formal.png
 year: 2021
 desc: >- 
