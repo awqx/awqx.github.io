@@ -3,8 +3,23 @@
 
 @import "{{ site.theme }}";
 
-img{
-  width: 40%; 
-  float: left; 
-  padding: 8px;  
+.container {
+  width: 100%; 
+  position: relative;
+  margin-right: auto;
+  margin-left: auto;
+  height: 200px; 
+}
+
+.frame {
+  top: 0;
+  left: 0;
+  padding-left: 10px;
+  padding-top: 10px;
+  width: 50%;
+  background: #ff0000;
+}
+
+body {
+  font-family: Open Sans, Segoe UI, sans-serif
 }

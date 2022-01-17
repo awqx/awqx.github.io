@@ -2,10 +2,6 @@
 layout: default
 ---
 
-# UNDER CONSTRUCTION
-
-Public but unfinished.
-
 # ALXOVE
 
 The title is a combination of my name and alcove. The spelling is also a reference to [arXiv](https://arxiv.org/).
@@ -15,7 +11,9 @@ This has been a recurring issue because I am an Al interested in AI.
 The site's name is pronounced like "alcove" (ˈæl koʊv). 
 It is a small niche where I can store updates, code documentation, writing projects, art, etc.
 
-## Goals
+The site is **UNDER CONSTRUCTION**. Many sections are still missing. 
+
+## Goals for ALXOVE
 
 - Organize my work
 - Cover themes I value
