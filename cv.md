@@ -78,6 +78,11 @@ Breakeasy 8 is scheduled for March 26th, 2022.
 **Design Chair of Adams House Committee** (Jan 2021-).
 I design merchandise, flyers, and publications for Adams House. 
 
+**Statistics Tema Member of Datamatch** (Aug 2020-).
+I create D3 visualization of analytics for Datamatch (e.g., average matches per person, sorted by school and year).
+
+**Harvard Financial Analysts Club - Quant** (Mar 2020-).
+
 ### Volunteering
 **President of the Genius Bar at Hathaway Brown** (25 hours) (2017-2019).
 The HB Genius Bar is a student-run division of the IT department assisting both students and staff. 
