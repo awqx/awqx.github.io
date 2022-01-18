@@ -18,6 +18,9 @@ I conduct research on the genome of M. tuberculosis with Dr. Megan Murray and un
 
 At the CCDD, I both conduct research and serve as Communications Assistant. See: *Work*.
 
+**Research Assistant at the Gow Lab, Massachusetts General** (Jan 2020-Aug 2021).
+Used machine learning models for neural decoding. SVMs used in order to detect word recognition in trained neural networks. Abstract accepted to Society for the Neurobiology of Language 2020 and Psychonomics 2020.
+
 **Research Assistant at von Recum Lab, Case Western Reserve University** (Jan 2016-May 2019).
 First author. Using QSARs for predictions in drug delivery. Currently available as a preprint; DOI: https://doi.org/10.1101/727172. Work in progress. Documentation can be found on [QSARR](qsarr.md).
 
