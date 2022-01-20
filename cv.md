@@ -5,6 +5,8 @@ rank: 1
 ---
 
 ## Curriculum Vitae
+*Updated on Jan 20, 2022.*
+
 ### Education
 **Harvard University** (Cambridge, MA. Class of 2023).
 A.B. Candidate, Statistics. Secondary: Linguistics. A complete list of classes is [here](classes.md).
