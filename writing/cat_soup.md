@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happiness in the Meaningless: How to Enjoy Cat Soup
+title: Happiness in the Meaningless - How to Enjoy Cat Soup
 writing: 20200513
 date: 13 May 2020
 ---

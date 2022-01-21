@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Plastic Power \: What it Means to Forget in The Act of Killing
+title: Plastic Power - What it Means to Forget in The Act of Killing
 writing: 20200321
 date: 21 Mar 2020
 ---
