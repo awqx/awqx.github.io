@@ -5,6 +5,8 @@ rank: 1
 ---
 
 ## Curriculum Vitae
+*Updated on Jan 20, 2022.*
+
 ### Education
 **Harvard University** (Cambridge, MA. Class of 2023).
 A.B. Candidate, Statistics. Secondary: Linguistics. A complete list of classes is [here](classes.md).
@@ -17,6 +19,9 @@ Alumnae Scholar (highest GPA), Strnad Fellow, Virginia Osborne Charman Award in 
 I conduct research on the genome of M. tuberculosis with Dr. Megan Murray and under the mentorship of Dr. Chuan-Chin Huan. I am currently working on a genome-wide analysis study (GWAS) to detect SNPs associated with worse outcome in a sample of TB patients from Peru.
 
 At the CCDD, I both conduct research and serve as Communications Assistant. See: *Work*.
+
+**Research Assistant at the Gow Lab, Massachusetts General** (Jan 2020-Aug 2021).
+Used machine learning models for neural decoding. SVMs used in order to detect word recognition in trained neural networks. Abstract accepted to Society for the Neurobiology of Language 2020 and Psychonomics 2020.
 
 **Research Assistant at von Recum Lab, Case Western Reserve University** (Jan 2016-May 2019).
 First author. Using QSARs for predictions in drug delivery. Currently available as a preprint; DOI: https://doi.org/10.1101/727172. Work in progress. Documentation can be found on [QSARR](qsarr.md).
@@ -77,6 +82,11 @@ Breakeasy 8 is scheduled for March 26th, 2022.
 
 **Design Chair of Adams House Committee** (Jan 2021-).
 I design merchandise, flyers, and publications for Adams House. 
+
+**Statistics Tema Member of Datamatch** (Aug 2020-).
+I create D3 visualization of analytics for Datamatch (e.g., average matches per person, sorted by school and year).
+
+**Harvard Financial Analysts Club - Quant** (Mar 2020-).
 
 ### Volunteering
 **President of the Genius Bar at Hathaway Brown** (25 hours) (2017-2019).
