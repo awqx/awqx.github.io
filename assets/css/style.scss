@@ -25,6 +25,20 @@
 }
 
 @font-face {
+    font-family: 'Roboto Slab';
+    src: url("../RobotoSlab-Regular.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Slab Medium';
+    src: url("../RobotoSlab-Medium.ttf") format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
     font-family: 'Rubik';
     src: url("../Rubik-VariableFont_wght.ttf") format('truetype');
     font-weight: normal;
@@ -60,17 +74,17 @@ code, .highlight {
 
 /* Text formatting */
 body, strong {
-  font-family: Rubik Light, Roboto Light, Segoe UI, sans-serif; 
+  font-family: Roboto Slab, Roboto Light, Segoe UI, sans-serif; 
   color: var(--white); 
   font-size: 11pt; 
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: var(--gold);
-  font-family: Roboto Mono, Consolas, monospace; 
+  color: var(--white);
+  font-family: Roboto Slab Medium, Consolas, monospace; 
   weight: normal; 
 }
 
 a, a:hover {
-  color: var(--lightpurple); 
+  color: var(--gold); 
 }
