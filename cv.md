@@ -5,18 +5,20 @@ rank: 1
 ---
 
 ## Curriculum Vitae
-*Updated on Jan 20, 2022.*
+*Updated on July 12, 2022.*
 
 ### Education
 **Harvard University** (Cambridge, MA. Class of 2023).
-A.B. Candidate, Statistics. Secondary: Linguistics. A complete list of classes is [here](classes.md).
+A.B. Candidate, Statistics. Secondary: Linguistics. A complete list of classes is [here](classes.md). 
+
+Named a Phi Beta Kappa scholar in Spring 2022. 
 
 **Hathaway Brown High School** (Shaker Heights, OH. Class of 2019).
 Alumnae Scholar (highest GPA), Strnad Fellow, Virginia Osborne Charman Award in English, Saltzman Family Excellence in Science Research Award
 
 ### Research
 **Research Assistant at the Center for Communicable Disease Dynamics** (Aug 2021-).
-I conduct research on the genome of M. tuberculosis with Dr. Megan Murray and under the mentorship of Dr. Chuan-Chin Huan. I am currently working on a genome-wide analysis study (GWAS) to detect SNPs associated with worse outcome in a sample of TB patients from Peru.
+I conduct research on the genome of M. tuberculosis with Dr. Megan Murray and under the mentorship of Dr. Chuan-Chin Huan. I am currently working on a genome-wide analysis study (GWAS) to detect SNPs associated with worse outcome in a sample of TB patients from Peru. My summer research has been funded by HCRP. 
 
 At the CCDD, I both conduct research and serve as Communications Assistant. See: *Work*.
 
@@ -26,7 +28,7 @@ Used machine learning models for neural decoding. SVMs used in order to detect w
 **Research Assistant at von Recum Lab, Case Western Reserve University** (Jan 2016-May 2019).
 First author. Using QSARs for predictions in drug delivery. Currently available as a preprint; DOI: https://doi.org/10.1101/727172. Work in progress. Documentation can be found on [QSARR](qsarr.md).
 
-**Research Assistant at Zhou Lab, Case Western Reserve University** (Jun 2015-Aug 2016).
+**Research Assistant at Zhou Lab, Case Western Reserve University** (Jun 2015-Aug 2016, Jun 2022-Aug 2022).
 Co-author. Notch2 Blockade Enhances Hematopoietic Stem Cell Mobilization and Homing; _Haematologica_ October 2017 102: 1785-1795; DOI: 10.3324/haematol.2017.168674
 
 #### Publications
@@ -52,14 +54,14 @@ At the CCDD, I both conduct research and serve as Communications Assistant. See:
 I assist with scientific diligence, analysis of possible business opportunities, and literature review.
 
 ### Teaching 
-**Teaching Fellow for STAT 111 (Introduction to Statistics)** (Jan 2021-Jun 2021. Jan 2022-).
+**Teaching Fellow for STAT 111 (Introduction to Statistics)** (Jan 2021-Jun 2021. Jan 2022-May 2022).
 
 **Teaching Fellow for STAT 110 (Introduction to Probability)** (Jun 2021-Dec 2021).
 
 **Harvard SPLASH Instructor** (Apr 2021). 
 Remote class for high school students. The class, titled *Puzzles in Probability*, focused on introducing probability theory through counter-intuitive examples, such as the Birthday Problem and St. Petersburg's Paradox.
 
-**HSYLC Student Leader** (Aug 2020, Aug 2021).
+**HSYLC Student Leader** (Aug 2020, Aug 2021, Aug 2022).
 HSYLC-X provides a liberal arts experience for middle- and high-school students in China. As an SL, I taught seminars for the students, which consisted of two lecture cohorts lasting six days. 
 
 Seminars focused on cognitive biases, morality, rationality, and effective altruism. The 2020 seminar was titled *Mentality, Misery, and Morality* and the 2021 seminar was titled *How to Save the World*. 
@@ -68,17 +70,20 @@ Seminars focused on cognitive biases, morality, rationality, and effective altru
 
 ### Extracurriculars
 **Arete Fellowship Chair of Harvard College Effective Altruism** (May 2021-).
-The Arete Fellowship is an introduction to effective altruism and is composed of weekly discussion sections, assigned readings, workshops, and a capstone project. As Fellowship Chair, I organize the Fellowship, modify the syllabus, and reach out to Fellows in order to continuously improve the experience. More information on the Arete Fellowship can be found [here](https://www.harvardea.org/arete).
+The Arete Fellowship is an introduction to effective altruism and is composed of weekly discussion sections, assigned readings, workshops, and a capstone project. We also offer a virtual summer program that condenses meetings into two meetings per week for three weeks. As Fellowship Chair, I organize the Fellowship, modify the syllabus, and reach out to Fellows in order to continuously improve the experience. More information on the Arete Fellowship can be found [here](https://www.harvardea.org/arete).
+
+In addition to the Arete, I help with general club leadership, including community outreach and developing future strategy for the club. 
 
 **President of Harvard Breakers** (May 2021-).
 Harvard Breakers is the premier streetdance and freestyle club at Harvard. 
-As President, I am responsible for most of the club logistics, including hosting regular open practices on campus. It is important to acknowledge that breaking is based in broader hip hop culture and to not forget the roots of the art. As such, it is important for students who are introduced to breaking through college clubs to work with the broader dance community, and I facilitate this through keeping the club in contact with local dancers who have been in the scene for years.
+
+As President, I am responsible for most of the club logistics, including hosting regular open practices on campus. It is important to acknowledge that breaking is based in broader hip hop culture and to not forget the roots of the art. Therefore, students who are introduced to breaking through college clubs should work with the broader dance community, and I facilitate this through keeping the club in contact with local dancers who have been in the scene for years. Our main collaborators are The Flavor Continues, based in Cambridge. 
 
 I organize two national breaking competitions - Battle for Boston in the fall, and Breakeasy in the spring.
 
 Battle for Boston 2021 was co-hosted by [The Flavor Continues](https://www.theflavorcontinues.org). The event had 130 attendants and 20 teams. Schools represented included Columbia, Dartmouth, MIT, Northeastern, Penn State, Princeton, Rutgers, Tufts, UConn, UMass Lowell, and UMass Boston. 
  
-Breakeasy 8 is scheduled for March 26th, 2022.
+Breakeasy 8 (March 26th, 2022) was also co-hosted by The Flavor Continues and received support from Red Bull. The event had 200 registered attendees and more than 30 teams. 
 
 **Design Chair of Adams House Committee** (Jan 2021-).
 I design merchandise, flyers, and publications for Adams House. 
@@ -102,6 +107,8 @@ Participated in community outreach musical performances
 Assisted with book circulation and library events. 
 
 ### Awards and Designations
+- Phi Beta Kapp
+	- Awarded in Spring of 2022 in my junior year at Harvard
 - Intel ISEF (2018, 2019)
 	- Project: AW Xin, E Rivera-Delgado, H von Recum. _Improving Affinity-Based Drug Delivery with Convenient Computational Models._ Poster CHEM029; 2019 May 12-17; Phoenix, AZ.
 		- First Place Award from the American Statistical Association
