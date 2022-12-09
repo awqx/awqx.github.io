@@ -39,6 +39,6 @@ STAT 110.
 In Spring 2023, I will return as a teaching fellow for STAT111. 
 
 ## Contact
-I have an (optionally) anonymous feedback form [here](https://forms.gle/yM2SRVH6CifXjsaB8). 
+I have an (optionally) anonymous feedback form [here](https://www.admonymous.co/al). 
 
 You can follow me on Twitter at [@al_xin](https://twitter.com/al_xin).

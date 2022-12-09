@@ -3,6 +3,7 @@ layout: post
 title: Morality in the Machine
 writing: 20200510
 date: 10 May 2020
+excerpt: (GENED 1093) Even if we produce computers with processing power rivaling or exceeding that of the human brain, an intelligent machine is not subject to the same ethical considerations as an intelligent human being. Our current moral systems are based in biological considerations and do not rationally extend to machines. 
 ---
 *This paper was originally written for GENED 1093: Evolving Morality.*
 
