@@ -1,11 +1,11 @@
 ---
 layout: default
-title: STAT 111
+title: STAT 210
 rank: 3
 ---
 
-## STAT 111
-This page will link to notes for STAT 111: Introduction to Statistics. Notes are cross-posted to the Canvas page. 
+## STAT 210
+This page will link to notes for STAT 210: Probability I. Notes are cross-posted to the Canvas page. 
 
 - Office hours: TBD
 - Section: TBD
