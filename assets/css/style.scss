@@ -69,14 +69,20 @@ code, .highlight {
   background: var(--darkgray); 
   font-family: Roboto Mono, Consolas, monospace; 
   color: var(--white);
-  font-size: 10pt; 
+  font-size: 9pt; 
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  line-height: 1.5;
+  margin-top: 1em; 
+  margin-bottom: 0.5em; 
 }
 
 /* Text formatting */
 body, strong {
   font-family: Roboto Slab, Roboto Light, Segoe UI, sans-serif; 
   color: var(--white); 
-  font-size: 10pt; 
+  font-size: 11pt; 
 }
 
 h1, h2, h3, h4, h5, h6 {

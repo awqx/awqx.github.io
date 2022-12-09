@@ -30,14 +30,15 @@ At Harvard, I am Arete Fellowship chair for Harvard College Effective
 Altruism (HCEA), President of Harvard Breakers, and Design Chair on the 
 Adams House Committee. I am Research and Communications Assistant for the
 Harvard Center for Communicable Disease Dynamics (CCDD), where I conduct
-research with the Murray lab under the mentorship of Chuan-Chin Huang. This  
+research with the Murray lab under the mentorship of Chuan-Chin Huang. This
 Fall, I will be a teaching fellow for STAT 210: Probability I. 
+
 I have previously been a teaching fellow for CS50, STAT110, and STAT111. 
 STAT 110.
 
-## Contact
+In Spring 2023, I will return as a teaching fellow for STAT111. 
 
-If there are questions or problems with the site, I can be reached 
-[by email](axin@college.harvard.edu).
+## Contact
+I have an (optionally) anonymous feedback form [here](https://forms.gle/yM2SRVH6CifXjsaB8). 
 
 You can follow me on Twitter at [@al_xin](https://twitter.com/al_xin).

@@ -5,13 +5,13 @@ rank: 1
 ---
 
 ## Curriculum Vitae
-*Updated on July 12, 2022.*
+*Updated on July 12, 2022.* Many items are copied from the CV I used for college applications and may be removed after graduating. 
 
 ### Education
 **Harvard University** (Cambridge, MA. Class of 2023).
 A.B. Candidate, Statistics. Secondary: Linguistics. A complete list of classes is [here](classes.md). 
 
-Named a Phi Beta Kappa scholar in Spring 2022. 
+Named a Phi Beta Kappa scholar in Spring 2022 (Junior 24). 
 
 **Hathaway Brown High School** (Shaker Heights, OH. Class of 2019).
 Alumnae Scholar (highest GPA), Strnad Fellow, Virginia Osborne Charman Award in English, Saltzman Family Excellence in Science Research Award

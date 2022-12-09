@@ -6,6 +6,13 @@ title: Classes
 ## Classes
 In addition to official course codes, alternate common names are include in parentheses (e.g., COMPSCI 50 is commonly known as CS50).
 
+### Fall 2022
+- **STAT 244**: General Linear Models
+- **ANTHRO 1716**: Neoliberalism
+- **STAT 994**: Senior Thesis Tutorial 
+- **GENED 1069**: Faith and Authenticity
+- **PHIL 34**: Existentialism in Film and Literature
+
 ### Spring 2022
 - **STAT 234**: Sequential Decision Making
 - **STAT 171**: Introduction to Stochastic Processes
