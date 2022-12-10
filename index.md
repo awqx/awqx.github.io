@@ -2,23 +2,31 @@
 layout: default
 ---
 
-## aLcove
+## aLxove
 
-aLcove is a small niche to store updates, code documentation, writing, 
+aLxove (pronounced alcove) is a small niche to store writing, info,
 art, etc.
-
-I stylize my name as "aL" to avoid sans serif ambiguities with "AI", 
-which is a problem for an aL interested in artificial intelligence, 
-among other things. 
-
-aLcove is **UNDER CONSTRUCTION** and many sections are still missing. 
-If anyone knows how to use blog tagging in Jekyll, please reach out. 
 
 ### Goals
 
 - Organize my work
-- Make me write
-- Provide a useful resource (this one is the most questionable)
+- Motivate me to write
+- Provide a useful resource
+
+### Why does the name look like that? 
+
+I stylize my name as "aL" to avoid sans serif ambiguities with "AI". 
+This has been a recurring problem for an aL interested in artificial 
+intelligence. Lowercase "xin" is because I think it looks nicer. 
+
+### Why does the site look like that?
+
+aLxove is **UNDER CONSTRUCTION** and many sections are still missing. 
+If anyone knows how to use blog tagging in Jekyll, please reach out.
+
+I use the [solarized palette](https://ethanschoonover.com/solarized/)
+ for heading colors and the Jekyll theme 
+[modernist](https://github.com/orderedlist/modernist) by orderedlist. 
 
 ## About Me
 
@@ -44,6 +52,7 @@ I've been accidentally charging below market value, so please don't try
 to fleece me. 
 
 ## Contact
-I have an (optionally) anonymous feedback form [here](https://www.admonymous.co/al). 
+I have an (optionally) anonymous feedback form
+[here](https://www.admonymous.co/al). 
 
 You can follow me on Twitter at [@al_xin](https://twitter.com/al_xin).
