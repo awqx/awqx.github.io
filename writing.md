@@ -7,7 +7,7 @@ rank: 4
 
 I have written a lot but saved very little. 
 
-I am filling in this page in chronological order. The writing samples currently provided are not an accurate representation of my current style. 
+I am filling in this page in chronological order. The writing samples currently provided are not an accurate representation of my current style or current views. (The most accurate impression of my current views is probably going to be an in-person conversation, unfortunately). 
 
 Check out the [Blog](blog.html) for more informal writing. 
 
