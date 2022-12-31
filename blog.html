@@ -11,6 +11,6 @@ Long-form essays (e.g., classwork) can be found on the <a href="{{ site.base_url
 A △ preceding a title is going to indicate something I think is well-developed or interesting (like the hot pepper symbols menus sometimes come with). 
 </p>
 {% for post in site.posts %}
-  <h3><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.words }} words). {{ post.date | date_to_string }}.</h3>
-  {{ post.excerpt }}
+  <b><a href="{{ post.url }}">{{ post.title }}</a> ({{ post.words }} words). {{ post.date | date_to_string }}.</b>
+  <small>{{ post.excerpt }}</small>
 {% endfor %}

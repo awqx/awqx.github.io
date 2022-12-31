@@ -11,11 +11,13 @@ I am filling in this page in chronological order. The writing samples currently 
 
 Check out the [Blog](blog.html) for more informal writing. 
 
-<p>
 {% assign blog = site.html_pages | sort:"writing" | reverse %}
 {% for item in blog %}
+  <p>
   {% if item.writing %}
-	<h3><a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a>. <em>{{ item.date | date_to_string }}</em>.</h3> {{ item.excerpt }}
+	<b><a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a> ({{ post.words }} words). <em>{{ item.date | date_to_string }}</em>.</b> 
+	<small>{{ item.excerpt }}</small>
+	<br>
   {% endif %}
+  </p>
 {% endfor %}
-</p>
