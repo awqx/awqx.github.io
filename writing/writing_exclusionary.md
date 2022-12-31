@@ -4,6 +4,7 @@ title: Writing as an Exclusionary Practice
 writing: 20200221
 date: 21 Feb 2020
 excerpt: (GENED 1093) Writing has been pivotal not because it is an open means of communication, but because it is exclusionary. Though Wright describes the inevitability of vertical dissemination of writing within a polity, the barriers to horizontal spread of language between groups are less easily broken. These limits, though, allow writing to drive group success. 
+words: 440
 ---
 
 *This paper was written for GENED 1093: Evolving Morality*.

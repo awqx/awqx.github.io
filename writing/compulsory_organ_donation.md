@@ -4,6 +4,7 @@ title: Compulsory Organ Donation
 writing: 20200121
 date: 21 Jan 2020
 excerpt: (GENED 1093) The discussion of abortion runs parallel to the question of compulsory organ donation. In both scenarios a person’s life depends on another forgoing a portion of their claim on their body. Because Thomson expands on the live donor scenario with the violinist example, we will specifically focus on post-mortem organ donation.
+words: 510
 ---
 
 *This paper was written for GENED 1046 and has been lightly editted since submission*. 

@@ -3,7 +3,8 @@ layout: post
 title: Plastic Power - What it Means to Forget in The Act of Killing
 writing: 20200321
 date: 2020-03-21
-excerpt: (EXPOS 20) This essay applies Nietzsche, who describes plastic power as the ability of an individual or society “to grow out of itself…to heal wounds, replace what is lost and reshape broken forms out of itself”, to the Oppenheimer documentary film "The Act of Killing", which covers the 1966 Indonesian genocide.  
+excerpt: (EXPOS 20) This essay applies Nietzsche, who describes plastic power as the ability of an individual or society “to grow out of itself…to heal wounds, replace what is lost and reshape broken forms out of itself”, to the Oppenheimer documentary film "The Act of Killing", which covers the 1966 Indonesian genocide.
+words: 1860  
 ---
 *Originally written for EXPOS 20: Philosophical Films.*
 

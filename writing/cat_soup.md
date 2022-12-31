@@ -4,6 +4,7 @@ title: Happiness in the Meaningless - How to Enjoy Cat Soup
 writing: 20200513
 date: 13 May 2020
 excerpt: (EXPOS 20) This essay applies absurdism, as described by Albert Camus in "The Myth of Sisyphus", to the 2001 animated film "Cat Soup". 
+words: 2840
 ---
 
 *This paper was written for EXPOS 20: Philosophical Films*.

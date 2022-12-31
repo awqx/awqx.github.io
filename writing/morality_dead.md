@@ -4,6 +4,7 @@ title: Morality is Probably Dead but That's OK
 writing: 20200329
 date: 29 Mar 2020
 excerpt: (GENED 1093) Through research on human behavior and psychology, we can reasonably conclude that a universal morality, or Moral Truth, does not exist. However, by breaking away from a single Platonic ideal we allow for flexibility in the development of local morality, or moral truth, an arrangement more applicable to humanity.  
+words: 960
 ---
 *This paper was originally written for GENED 1093: Evolving Morality.*
 
