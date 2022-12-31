@@ -15,7 +15,7 @@ Check out the [Blog](blog.html) for more informal writing.
 {% for item in blog %}
   <p>
   {% if item.writing %}
-	<b><a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a> ({{ post.words }} words). <em>{{ item.date | date_to_string }}</em>.</b> 
+	<b><a href="{{ item.path | replace:'.md','.html' }}">{{ item.title }}</a> ({{ item.words }} words). <em>{{ item.date | date_to_string }}</em>.</b> 
 	<small>{{ item.excerpt }}</small>
 	<br>
   {% endif %}
