@@ -7,11 +7,11 @@ rank: 1
 
 Last updated: 2025-01-05. 
 
-I am currently applying to PhD programs. If you're an application reviewer, I don't believe you'll find much more compared to the CV I've likely already attached. More novel information might be found on [[projects]].
+I am currently applying to PhD programs. If you're an application reviewer, I don't believe you'll find much more compared to the CV I've likely already attached. More novel information might be found on [Projects](projects.html). 
 
 ### Education
 
-**Harvard University**. Cambridge, MA. 2019-2023. Statistics. Secondary: Linguistics.
+**Harvard University**. Cambridge, MA. 2019-2023. Statistics. Secondary: Linguistics. [Classes taken](classes.html).
 
 **Hathaway Brown High School**. Shaker Heights, OH. 2015-2019. 
 
@@ -41,7 +41,7 @@ Wang W, Yu S, Myers J, Wang Y, Xin WW, Albakri M, Xin AW, Li M, Huang AY, Xin W,
 
 ### Research timeline
 
-High-level project summaries can be found on the [[projects|projects page]]. 
+High-level project summaries can be found on [Projects](projects.html).
 
 **Machine Learning Team**, National Institute of Mental Health. Bethesda, MD. Jun 2023–Present. Postbaccalaureate IRTA. 
 

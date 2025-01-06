@@ -8,7 +8,11 @@ In addition to official course codes, alternate common names are include in pare
 
 ### Spring 2023
 
-
+- **GENED 1115**: Human Trafficking, Slavery and Abolition in the Modern World
+- **MBB 980V**: Neuroimaging and Big Data in Connectomics: Advances in Understanding the Wiring of the Brain
+- **PHIL 147**: Philosophy of Language
+- **PHYSCI 3**: Electromagnetism, Circuits, Waves, Optics, and Imaging
+- **STAT 141**: Introduction to Spatial Statistics
 
 ### Fall 2022
 
