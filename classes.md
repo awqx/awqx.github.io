@@ -2,11 +2,16 @@
 layout: default
 title: Classes
 ---
-
 ## Classes
+
 In addition to official course codes, alternate common names are include in parentheses (e.g., COMPSCI 50 is commonly known as CS50).
 
+### Spring 2023
+
+
+
 ### Fall 2022
+
 - **STAT 244**: General Linear Models
 - **ANTHRO 1716**: Neoliberalism
 - **STAT 994**: Senior Thesis Tutorial 
@@ -14,6 +19,7 @@ In addition to official course codes, alternate common names are include in pare
 - **PHIL 34**: Existentialism in Film and Literature
 
 ### Spring 2022
+
 - **STAT 234**: Sequential Decision Making
 - **STAT 171**: Introduction to Stochastic Processes
 	- Well taught and clear
@@ -21,6 +27,7 @@ In addition to official course codes, alternate common names are include in pare
 - **NEURO 140**: Biological and Artificial Intelligence
 
 ### Fall 2021
+
 - **STAT 185**: Introduction to Unsupervised Learning
 	- The theoretical foundation from this class informed my research with the Murray lab at HSPH. 
 - **PHYSCI 2 (PS2)**: Mechanics, Elasticity, Fluids, and Diffusion
@@ -34,21 +41,22 @@ In addition to official course codes, alternate common names are include in pare
 	- Well taught, with an emphasis on learning foundational concepts and applying them to more specific cases
 
 ### Spring 2021
-- Virtual semester due to Harvard COVID-19 policies 
+
+- Virtual semester due to Harvard's COVID-19 social distancing measures
 - **SOC-STD 68EA**: Engaged Philosophy: The Theory and Practice of Altruism
 - **COMPSCI 181**: Introduction to Machine Learning
-	- More theoretical basis than MIT 6.036
-	- Very few people take both CS181 and MIT 6.036 so fair comparison is hard
 - **CHEM 27**: Organic Chemistry of Life
 - **EXPOS 40**: Public Speaking Practicum
 - **LIFESCI 1B (LS1b)**: An Integrated Introduction to the Life Sciences
 
 ### Summer 2020
-- Virtual due to Harvard COVID-19 policies 
+
+- Virtual semester due to Harvard's COVID-19 social distancing measures
 - **CHEM S-17**: Principles of Organic Chemistry
 
 ### Fall 2020
-- Virtual semester due to Harvard COVID-19 policies 
+
+- Virtual semester due to Harvard's COVID-19 social distancing measures
 - **STAT 210**: Probability I
 - **STAT 139**: Introduction to Linear Models
 - **MCB 60**: Cellular Biology and Molecular Medicine
@@ -57,7 +65,8 @@ In addition to official course codes, alternate common names are include in pare
 - **GENED 1093**: Who Lives, Who Dies, Who Cares?
 
 ### Spring 2020
-- Universal Pass/Fail to Harvard COVID-19 policies 
+
+- Universal Pass/Fail to Harvard's decision to send students home prior to Spring Break
 - **STAT 111**: Introduction to Statistics
 - **MATH 25A**: Theoretical Linear Algebra and Real Analysis II
 - **GENED 1046**: Evolving Morality: From Primordial Soup to Superintelligent Machines
@@ -65,11 +74,9 @@ In addition to official course codes, alternate common names are include in pare
 - **EXPOS 20**: Expository Writing. Section: Philosophical Films
 
 ### Fall 2019
+
+- First-year advisor: Boaz Barak
 - **STAT 110**: Introduction to Probability
 - **MATH 25A:** Theoretical Linear Algebra and Real Analysis I
 - **LIFESCI 1A (LS1a)**: An Integrated Introduction to the Life Sciences: Chemistry, Molecular Biology, and Cell Biology
 - **COMPSCI 50 (CS50)**: Introduction to Computer Science
-
-
-
-
