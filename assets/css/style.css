@@ -29,47 +29,33 @@
 
 /* Import fonts */
 @font-face {
-    font-family: 'Roboto';
-    src: url("../Roboto-Regular.ttf") format('truetype');
+    font-family: 'Atkinson Hyperlegible';
+    src: url("../Atkinson-Hyperlegible-Regular-102.ttf") format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Roboto Slab';
-    src: url("../RobotoSlab-Light.ttf") format('truetype');
-    font-weight: normal;
+    font-family: 'Atkinson Hyperlegible Bold';
+    src: url("../Atkinson-Hyperlegible-Bold-102.ttf") format('truetype');
+    font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Roboto Slab Medium';
-    src: url("../RobotoSlab-Medium.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Atkinson Hyperlegible Bold Italic';
+    src: url("../Atkinson-Hyperlegible-Regular-102.ttf") format('truetype');
+    font-weight: bold;
+    font-style: italic;
 }
 
 @font-face {
-    font-family: 'Rubik';
-    src: url("../Rubik-VariableFont_wght.ttf") format('truetype');
+    font-family: 'Atkinson Hyperlegible Italic';
+    src: url("../Atkinson-Hyperlegible-Italic-102.ttf") format('truetype');
     font-weight: normal;
-    font-style: normal;
+    font-style: Italic;
 }
 
-@font-face {
-    font-family: 'Rubik Light';
-    src: url("../Rubik-Light.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
-
-
-@font-face {
-    font-family: 'Roboto Mono';
-    src: url("../RobotoMono-Regular.ttf") format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
 
 /* Assign background colors */
 body {
@@ -78,37 +64,45 @@ body {
 
 code, .highlight {
   background: var(--darkgray); 
-  font-family: Roboto Mono, Consolas, monospace; 
+  font-family: Consolas, monospace; 
   color: var(--white);
   font-size: 9pt; 
 }
 
+/* Add spacing for legibility */
 p, h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
   margin-top: 1em; 
   margin-bottom: 0.5em;
 }
 
-/* Text formatting */
-body, strong {
-  font-family: Roboto Slab, Roboto Light, Segoe UI, sans-serif; 
-  color: var(--white); 
-  font-size: 11pt; 
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: Roboto Mono, Consolas, monospace; 
-  weight: normal; 
-}
-
-a, a:hover {
-  color: var(--gold); 
-}
-
+/* Prevents spacing from causing huge unordered list gaps */
 ul { 
   margin: 0 0;
 }
 
+/* Text formatting */
+body, strong {
+  font-family: Atkinson Hyperlegible, Segoe UI, sans-serif; 
+  color: var(--white); 
+  font-size: 11pt; 
+}
+
+/* Turn headings green for fun */
+h1, h2, h3, h4, h5, h6 {
+  font-family: Atkinson Hyperlegible, Segoe UI, sans-serif; 
+  weight: normal; 
+  color: var(--sol-green); 
+}
+
+/* Turn links gold for fun */
+a, a:hover {
+  color: var(--gold); 
+}
+
+
+/* Old heading colors that are consistent with the entire solarized palette */
+/*
 h1 {
   color: var(--sol-violet); 
 }
@@ -129,3 +123,4 @@ h4 {
 h5 {
   color: var(--sol-blue);
 }
+*/
