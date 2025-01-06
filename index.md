@@ -1,58 +1,39 @@
 ---
 layout: default
 ---
+## Alison (Al/aL) W. Xin
 
-## aLxove
+Updated on 2024-01-05. 
 
-aLxove (pronounced alcove) is a small niche to store writing, info,
-art, etc.
+### About
 
-### Goals
+I am a postbaccalaureate Intramural Research Training Award (IRTA) researcher at the Machine Learning Core at the National Institute of Mental Health, directed by Dr. Francisco Pereira. I work on experimental machine learning applications in psychology, psychiatry, and neuroscience and statistical research on functional mixed models. 
 
-- Organize my work
-- Motivate me to write
-- Provide a useful resource
+I also work part-time as a temporary contractor for the Harvard Center for Communicable Disease Dynamics (CCDD), where I help with CCDD branding and site maintenance. 
+
+I graduated from Harvard in 2023 (Statistics major and Linguistics minor). I wrote a senior thesis with the Murray lab at Harvard Medical School on a genome-wide association study of *M. tuberculosis*. At Harvard, I was Program Director for Harvard Effective Altruism (HEA), President of Harvard Breakers, and Design Chair on the Adams House Committee. 
+
+I previously worked as a teaching fellow (Harvard's term for a teaching assistant) for CS 50, STAT 110, STAT 111, and STAT 210. I do some commissioned graphic design work, such as logo design, including the course logo for STAT 210. 
 
 ### Why does the name look like that? 
 
-I stylize my name as "aL" to avoid sans serif ambiguities with "AI". 
-This has been a recurring problem for an aL interested in artificial 
-intelligence. Lowercase "xin" is because I think it looks nicer. 
+I sometimes stylize my name as aL to avoid sans serif ambiguities with "AI". This has been a recurring problem for an aL interested in artificial intelligence. 
 
 ### Why does the site look like that?
 
-aLxove is **UNDER CONSTRUCTION** and many sections are still missing. 
-If anyone knows how to use blog tagging in Jekyll, please reach out.
+I am currently in the process of reorganizing a lot of my publicly available content. I used to host my CV on Substack, for example, but I am moving away from the platform to put all blogging/newsletter work on Buttondown. I am also in the process of switching my GitHub domain name, which I will likely postpone due to providing my old URL to PhD applications. 
 
-I use the [solarized palette](https://ethanschoonover.com/solarized/)
- for heading colors and the Jekyll theme 
-[modernist](https://github.com/orderedlist/modernist) by orderedlist. 
+The site uses the Jekyll theme [modernist](https://github.com/orderedlist/modernist) by orderedlist. 
 
-## About Me
+### Links
 
-I am a senior at Harvard College studying Statistics with a secondary in 
-Linguistics. I am planning to apply to an MD-PhD program with a research 
-focus in epidemiology, machine learning, immunology, longevity, or some
-fifth unspecified thing.
+- [ORCID](https://orcid.org/0000-0002-7954-8049)
+- [awqx on GitHub](https://github.com/awqx)
+- [alxove.com on Bluesky](https://bsky.app/profile/alxove.com)
+- Current position: [Machine Learning Core](https://cmn.nimh.nih.gov/mlt) at NIMH
 
-At Harvard, I am Program Director for Harvard Effective 
-Altruism (HEA), President of Harvard Breakers, and Design Chair on the 
-Adams House Committee. I am Research and Communications Assistant for the
-Harvard Center for Communicable Disease Dynamics (CCDD), where I conduct
-research with the Murray lab under the mentorship of Chuan-Chin Huang. This
-Fall, I am a teaching fellow for STAT 210: Probability I. 
+### Contact
 
-I have previously been a teaching fellow for CS50, STAT110, and STAT111. 
-STAT 110.
+I have an (optionally) anonymous feedback form [here](https://www.admonymous.co/al). 
 
-In Spring 2023, I will return as a teaching fellow for STAT111. 
-
-I do commissioned graphic design work, so please reach out if interested. 
-I've been accidentally charging below market value, so please don't try
-to fleece me. 
-
-## Contact
-I have an (optionally) anonymous feedback form
-[here](https://www.admonymous.co/al). 
-
-You can follow me on Twitter at [@al_xin](https://twitter.com/al_xin).
+You can find me at Bluesky @[alxove.com](https://bsky.app/profile/alxove.com). I own the URL alxove.com for blogging, but I am currently working on migrating from Substack to Buttondown.
