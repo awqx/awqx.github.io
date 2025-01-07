@@ -19,7 +19,7 @@ I sometimes stylize my name as aL to avoid sans serif ambiguities with "AI". Thi
 
 I am currently in the process of reorganizing a lot of my publicly available content. I used to host my CV on Substack, for example, but I am moving away from the platform to put all blogging/newsletter work on Buttondown. I am also in the process of switching my GitHub domain name, which I will likely postpone due to providing my old URL to PhD applications. 
 
-The site uses the Jekyll theme [modernist](https://github.com/orderedlist/modernist) by orderedlist. 
+The site uses the Jekyll theme [modernist](https://github.com/orderedlist/modernist) by orderedlist. I like the font "Clear Sans".  
 
 ### Links
 
