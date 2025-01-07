@@ -2,11 +2,9 @@
 layout: post
 title: Local testing of GitHub Pages on MacOS
 author: me
-words: 
+words: 470
 excerpt: I can't believe this took me so long to debug.
 ---
-## Local testing of GitHub Pages on MacOS
-
 The procedure isn't that bad, but certain resources create conflicts that are a little hard to track down. 
 
 After you've already set up a Jekyll site on GitHub Pages, these are steps to help check it locally to avoid waiting for GitHub to publish it to make sure everything looks good.
