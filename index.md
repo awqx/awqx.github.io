@@ -17,9 +17,9 @@ I sometimes stylize my name as aL to avoid sans serif ambiguities with "AI". Thi
 
 ### Why does the site look like that?
 
-I am currently in the process of reorganizing a lot of my publicly available content. I used to host my CV on Substack, for example, but I am moving away from the platform to put all blogging/newsletter work on Buttondown. I am also in the process of switching my GitHub domain name, which I will likely postpone due to providing my old URL to PhD applications. 
+Currently reorganizing things. I used to host my CV on Substack, for example, but I am moving away from the platform to put all blogging/newsletter work on Buttondown. I am also planning to change my GitHub domain name (with delays due to providing this URL to PhD applications).
 
-The site uses the Jekyll theme [modernist](https://github.com/orderedlist/modernist) by orderedlist. I like the font "Clear Sans".  
+The site uses the Jekyll theme [modernist](https://github.com/orderedlist/modernist) by orderedlist and the font "Atkinson Hyperlegible", available on [Google Fonts](https://fonts.google.com/specimen/Atkinson+Hyperlegible). 
 
 ### Links
 
@@ -27,6 +27,7 @@ The site uses the Jekyll theme [modernist](https://github.com/orderedlist/modern
 - [awqx on GitHub](https://github.com/awqx)
 - [alxove.com on Bluesky](https://bsky.app/profile/alxove.com)
 - Current position: [Machine Learning Core](https://cmn.nimh.nih.gov/mlt) at NIMH
+- Email: last name, first initial, middle initial at nih.gov. No spaces, all lowercase.
 
 ### Background
 

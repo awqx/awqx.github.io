@@ -5,6 +5,8 @@ rank: 2
 ---
 ## Projects and past research
 
+My list of publications can also be found on [ORCID](https://orcid.org/0000-0002-7954-8049).
+
 ### Labeling nuanced outcomes of depression with large language models
 
 PI: Dr. Francisco Pereira. Mentors: Dr. Dylan Nielson, Dr. Juan Antonio Lossio-Ventura. 
