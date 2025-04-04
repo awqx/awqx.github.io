@@ -5,7 +5,7 @@ author: me
 words: 770
 excerpt: When I figured out that I could make significant changes to my life at any time of the year, New Year's Resolutions lost their luster. But in honor of my worst year on record (age 5 is probably a top contender, but I don't really remember it), feeling like I'm wiping the slate clean seems nice. 
 tags:
-  - slice of life
+  - lifestuff
 ---
 When I figured out that I could make significant changes to my life at any time of the year, New Year's Resolutions lost their luster. But in honor of my worst year on record (age 5 is probably a top contender, but I don't really remember it), feeling like I'm wiping the slate clean seems nice. 
 
