@@ -4,7 +4,9 @@ title: Local testing of GitHub Pages on MacOS
 author: me
 words: 470
 excerpt: I can't believe this took me so long to debug.
-tags: 
+
+tags:
+
   - tutorial
 ---
 The procedure isn't that bad, but certain resources create conflicts that are a little hard to track down. 
