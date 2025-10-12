@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-01-04-lanier.md",
+                "file": "_publications/xin2024-llm_impactme.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2023-01-04-lanier"
+              "title": "xin2024-llm_impactme"
             }
           }
         ]
@@ -155,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,14 +166,20 @@
   },
   "active": "358a658fac27c861",
   "lastOpenFiles": [
+    "_posts/2024-01-06-jekyll_macos.md",
+    "_posts/2025-10-12-student_peer_rvw.md",
+    "_posts/2023-01-01-yappyhewnear.md",
+    "_posts/2023-01-04-lanier.md",
+    "_posts/2023-05-20-autism_pragmatics.md",
+    "_pages/blog.md",
+    "_posts/2025-10-12-graphic_design.md",
+    "_pages/publications.md",
+    "_pages/tags.md",
     "_pages/projects.md",
     "_pages/cv.md",
     "_pages/index.md",
-    "_pages/tags.md",
+    "README.md",
     "_pages/classes.md",
-    "_pages/blog.md",
-    "_pages/publications.md",
-    "_posts/2023-01-04-lanier.md",
     "_teaching/2015-spring-teaching-2.md",
     "_teaching/2014-spring-teaching-1.md",
     "_teaching",
@@ -204,12 +211,6 @@
     "img/21-b4b.png",
     "cv.md",
     "classes.md",
-    "blog.md",
-    "art/waterfront.md",
-    "art/template.md",
-    "art/room.md",
-    "art/orientation.md",
-    "art/lny.md",
-    "art/housingday.md"
+    "blog.md"
   ]
 }

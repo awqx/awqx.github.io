@@ -14,6 +14,8 @@ PI: Dr. Francisco Pereira. Mentor: Dr. Gabe Loewinger. Collaborators: Dr. Erjia 
 
 I extended the existing R package `fastFMM` to include procedures for fitting concurrent functional linear models.
 
+Associated publication: Xin AW, Cui E, Pereira F, Loewinger G. Capturing instantaneous neural signal-behavior relationships with concurrent functional mixed models [Internet]. bioRxiv; 2025; submitted as a Research Advance to eLife. Available from: [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.09.08.671383v1)
+
 ### Labeling nuanced outcomes of depression with large language models
 
 PI: Dr. Francisco Pereira. Mentors: Dr. Dylan Nielson, Dr. Juan Antonio Lossio-Ventura. 

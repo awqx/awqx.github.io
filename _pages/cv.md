@@ -5,11 +5,13 @@ author_profile: false
 permalink: /cv/
 ---
 
-Last updated: 2025-03-10. 
+Last updated: 12 Oct 2025. 
 
-I am currently applying to PhD programs. If you're an application reviewer, I don't believe you'll find much more compared to the CV I've likely already attached. More novel information might be found on [Projects](/projects/). 
+[See additional project details](/projects/). 
 
 ## Education
+
+**Carnegie Mellon University**. Pittsburgh, PA. 2025-Present. PhD Student in Statistics and Data Science, working on transferring to a joint PhD with the Program in Neural Computation. Tentative advisors: Profs. Rob Kass (Stats) and Jenelle Feather (Psychology).
 
 **Harvard University**. Cambridge, MA. 2019-2023. Statistics. Secondary: Linguistics. [Classes taken](classes.html).
 

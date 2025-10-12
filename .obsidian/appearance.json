@@ -1,1 +1,8 @@
-{}
+{
+  "textFontFamily": "",
+  "enabledCssSnippets": [
+    "editorfont",
+    "img",
+    "pdf"
+  ]
+}

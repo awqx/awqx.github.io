@@ -5,30 +5,25 @@ permalink: /
 title: About
 ---
 
-Last updated: 2025-03-10. 
+Last updated: 12 Oct 2025. 
 
-I am a postbaccalaureate Intramural Research Training Award (IRTA) researcher at the Machine Learning Core at the National Institute of Mental Health, directed by Dr. Francisco Pereira. I work on experimental machine learning applications in psychology, psychiatry, and neuroscience and statistical research on functional mixed models. 
-
-This fall, I will be entering the Statistics + Program in Neural Computation PhD program at Carnegie Mellon University.
-
-I also work part-time as a contractor for the Harvard Center for Communicable Disease Dynamics (CCDD), where I help with CCDD branding and site maintenance. 
-
-## Why does the name look like that? 
-
-I sometimes stylize my name as aL to avoid sans serif ambiguities with "AI". This has been a recurring problem for an aL interested in artificial intelligence. 
-
-## Why does the site look like that?
-
-Currently reorganizing things. I used to host my CV on Substack, for example, but I am mmoving my blog/newsletter attempts to Buttondown. I am also planning to change my GitHub domain name (with delays due to providing this URL to PhD applications).
-
-The site is mashed together from the Jekyll theme [Minimal Mistakes](https://mmistakes.github.io) and its fork [Academic Pages](https://academicpages.github.io/), which may cause strange inconsistencies and layout failures. I use the font [Atkinson Hyperlegible](https://fonts.google.com/specimen/Atkinson+Hyperlegible) for readability. 
+I am a first year PhD student at the Statistics and Data Science Department at Carnegie Mellon University. I am in the process of switching to a joint PhD with the Program in Neural Computation. Previously, I was a postbaccalaureate Intramural Research Training Award (IRTA) researcher at the Machine Learning Core at the National Institute of Mental Health, directed by Dr. Francisco Pereira. I worked on experimental machine learning applications in psychology, psychiatry, and neuroscience and statistical research on functional mixed models. 
 
 ## Links
 
 - [ORCID](https://orcid.org/0000-0002-7954-8049)
 - [awqx on GitHub](https://github.com/awqx)
-- [alxin.me on Bluesky](https://bsky.app/profile/alxin.me)
-- Current position: [Machine Learning Core](https://cmn.nimh.nih.gov/mlt) at NIMH
+- [alxin.me on Bluesky](https://bsky.app/profile/alxin.me) (not very active)
+
+## Why does the name look like that? 
+
+I sometimes stylize my name as aL to avoid sans serif ambiguities with "AI". This has been a recurring problem for an aL adjaced to machine learning. 
+
+## Why does the site look like that?
+
+I am currently reorganizing things. I used to host my CV on Substack, for example, but I am mmoving my blog/newsletter attempts to Buttondown. I am also planning to change my GitHub domain name (with delays due to providing this URL to PhD applications).
+
+The site is mashed together from the Jekyll theme [Minimal Mistakes](https://mmistakes.github.io) and its fork [Academic Pages](https://academicpages.github.io/), which may cause strange inconsistencies and layout failures. I use the font [Atkinson Hyperlegible](https://fonts.google.com/specimen/Atkinson+Hyperlegible) for readability. 
 
 ## Background
 
