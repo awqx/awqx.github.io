@@ -2,7 +2,7 @@
 # Site Settings
 title: aL xin
 name: &name aL xin
-email: xinwenxin.me@gmail.com
+email: axin@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Alison (Al/aL) W. Xin's site
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -82,9 +82,9 @@ author:
   avatar           : "profile.png"
   name             : "aL xin"
   pronouns         : 
-  bio              : "Postbac machine learning researcher."
-  location         : "Bethesda, MD."
-  employer         : "NIH"
+  bio              : "Stats and DataSci PhD student."
+  location         : "Pittsburgh, PA."
+  employer         : "Carnegie Mellon"
   uri              : 
   email            : 
 
