@@ -5,9 +5,9 @@ permalink: /
 title: About
 ---
 
-Last updated: 12 Oct 2025. 
+Last updated: 2026 Mar 23. 
 
-I am a first year PhD student at the Statistics and Data Science Department at Carnegie Mellon University. I am in the process of switching to a joint PhD with the Program in Neural Computation. Previously, I was a postbaccalaureate Intramural Research Training Award (IRTA) researcher at the Machine Learning Core at the National Institute of Mental Health, directed by Dr. Francisco Pereira. I worked on experimental machine learning applications in psychology, psychiatry, and neuroscience and statistical research on functional mixed models. 
+I am a first year PhD student at the Statistics and Data Science Department at Carnegie Mellon University and in the joint program with the Program in Neural Computation (PNC). Previously, I was a postbaccalaureate Intramural Research Training Award (IRTA) researcher at the Machine Learning Core at the National Institute of Mental Health, directed by Dr. Francisco Pereira. I worked on experimental machine learning applications in psychology, psychiatry, and neuroscience and statistical research on functional mixed models. 
 
 ## Links
 
