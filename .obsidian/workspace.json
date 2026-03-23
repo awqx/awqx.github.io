@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_publications/xin2024-llm_impactme.md",
+                "file": "_publications/xin2026-fastFMM.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "xin2024-llm_impactme"
+              "title": "xin2026-fastFMM"
             }
           }
         ]
@@ -166,6 +166,10 @@
   },
   "active": "358a658fac27c861",
   "lastOpenFiles": [
+    "files/xin2026-fastFMM.pdf",
+    "_publications/xin2024-llm_impactme.md",
+    "_publications/xin2026-fastFMM.md",
+    "_pages/publications.md",
     "_posts/2024-01-06-jekyll_macos.md",
     "_posts/2025-10-12-student_peer_rvw.md",
     "_posts/2023-01-01-yappyhewnear.md",
@@ -173,7 +177,6 @@
     "_posts/2023-05-20-autism_pragmatics.md",
     "_pages/blog.md",
     "_posts/2025-10-12-graphic_design.md",
-    "_pages/publications.md",
     "_pages/tags.md",
     "_pages/projects.md",
     "_pages/cv.md",
@@ -188,7 +191,6 @@
     "_talks/2013-03-01-tutorial-1.md",
     "_talks/2012-03-01-talk-1.md",
     "_talks",
-    "_publications/xin2024-llm_impactme.md",
     "_publications",
     "_pages",
     "staticman.yml",
@@ -209,8 +211,6 @@
     "img/21-chocoholica.png",
     "img/21-breakers_logo.png",
     "img/21-b4b.png",
-    "cv.md",
-    "classes.md",
-    "blog.md"
+    "cv.md"
   ]
 }
